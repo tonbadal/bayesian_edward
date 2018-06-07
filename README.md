@@ -1,4 +1,4 @@
-# Bayesian implementatinos with Edward
+# Bayesian implementations with Edward
 
 Implementation of some Bayesian tecniques with Edward package:
   - Bayessian Neural Network.
